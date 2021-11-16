@@ -1,6 +1,6 @@
 {
   "name": "npm_package_testing_1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/har-sargis/publish_test.git"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
   }
 }
