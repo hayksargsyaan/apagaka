@@ -1,10 +1,14 @@
 {
-  "name": "@tt/button",
+  "name": "@aybuben/button",
   "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo testing button with version: $npm_package_version"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "author": "",
   "license": "ISC"

@@ -1,10 +1,14 @@
 {
-  "name": "@tt/modal",
+  "name": "@aybuben/modal",
   "version": "3.0.1",
   "description": "",
-  "main": "index.js.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo testing modal with new version: $npm_package_version"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "author": "",
   "license": "ISC"
