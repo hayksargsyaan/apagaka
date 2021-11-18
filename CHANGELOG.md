@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.1](https://github.com/har-sargis/publish_test/compare/v3.0.0...v3.0.1) (2021-11-18)
+
+
+### Bug Fixes
+
+* **packages/modal:** fox smth ([7b40d85](https://github.com/har-sargis/publish_test/commit/7b40d85cb3fc0d66c58c30e0a4c661b2a201e2f8))
+
+
+
+
+
 # [3.0.0](https://github.com/har-sargis/publish_test/compare/v2.0.0...v3.0.0) (2021-11-18)
 
 
