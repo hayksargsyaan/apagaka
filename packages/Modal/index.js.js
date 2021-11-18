@@ -1,6 +1,6 @@
 function Modal() {
   return (
-    <div>Modal changes</div>
+    <div>Modal changes minor</div>
   );
 }
 

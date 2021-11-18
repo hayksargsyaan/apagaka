@@ -3,6 +3,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "publish": "lerna run publish",
     "test": "lerna run test",
     "wizard": "npx lerna-wizard",
     "diff": "lerna diff",
