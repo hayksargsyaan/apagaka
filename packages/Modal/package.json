@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js.js",
   "scripts": {
-    "test": "echo testing modal with version: $npm_package_version"
+    "test": "echo testing modal with new version: $npm_package_version"
   },
   "author": "",
   "license": "ISC"
