@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/har-sargis/publish_test/compare/v1.0.2...v1.1.0) (2021-11-18)
+
+
+### Features
+
+* **button:** breaking hcange ([8959832](https://github.com/har-sargis/publish_test/commit/8959832416a5e5f857df05ff05befdb07fc41b47))
+* **src:** lerna ([0235fe1](https://github.com/har-sargis/publish_test/commit/0235fe153992ee11fabe6cd474bf6e697abc1fb6))
+
+
+
+
+
 ## [1.0.2](https://github.com/har-sargis/publish_test/compare/v1.0.1...v1.0.2) (2021-11-18)
 
 **Note:** Version bump only for package npm_package
