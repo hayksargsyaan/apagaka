@@ -1,6 +1,6 @@
 function Accordion() {
   return (
-    <div>Brraking change</div>
+    <div>Minor change</div>
   )
 }
 
