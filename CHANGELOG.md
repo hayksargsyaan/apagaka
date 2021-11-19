@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.1.1](https://github.com/har-sargis/publish_test/compare/v3.1.0...v3.1.1) (2021-11-19)
+
+
+### Bug Fixes
+
+* **packages.button:** minor changes ([fa18925](https://github.com/har-sargis/publish_test/commit/fa189254bcc8d144ac80bf84b6a5d6b4b2c68278))
+
+
+
+
+
 # [3.1.0](https://github.com/har-sargis/publish_test/compare/v3.0.1...v3.1.0) (2021-11-18)
 
 
