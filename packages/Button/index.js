@@ -1,6 +1,6 @@
 function Button() {
   return (
-    <button>click me breaking change</button>
+    <button>click me breaking change 2</button>
   );
 }
 
