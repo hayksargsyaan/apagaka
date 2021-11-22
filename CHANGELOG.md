@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.3.0](https://github.com/har-sargis/publish_test/compare/v3.2.0...v3.3.0) (2021-11-22)
+
+
+### Features
+
+* **pakcages/button:** braking ([699ba42](https://github.com/har-sargis/publish_test/commit/699ba42a49a1a7f0bf5e56ca5969fe23be1ec3c4))
+
+
+
+
+
 # [3.2.0](https://github.com/har-sargis/publish_test/compare/v3.1.1...v3.2.0) (2021-11-22)
 
 
