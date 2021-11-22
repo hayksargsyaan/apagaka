@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.2.0](https://github.com/har-sargis/publish_test/compare/v3.1.1...v3.2.0) (2021-11-22)
+
+
+### Features
+
+* **packages/modal:** some major change ([5eb4b2f](https://github.com/har-sargis/publish_test/commit/5eb4b2fdb0e6601ba4d2fc7e2031d220c1515f5b))
+
+
+
+
+
 # [3.1.0](https://github.com/har-sargis/publish_test/compare/v3.0.1...v3.1.0) (2021-11-18)
 
 
