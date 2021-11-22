@@ -1,6 +1,8 @@
+import Button from '@aybuben/button'
+
 function Accordion() {
   return (
-    <div>Minor change</div>
+    <Button>click me</Button>
   )
 }
 
