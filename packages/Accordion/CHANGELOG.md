@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.1.0](https://github.com/har-sargis/publish_test/compare/v4.0.0...v4.1.0) (2021-11-22)
+
+
+### Features
+
+* **packages.button:** major ([9fdc463](https://github.com/har-sargis/publish_test/commit/9fdc46319cf045818f92a59096a97c140a32ebf1))
+
+
+
+
+
 # [4.0.0](https://github.com/har-sargis/publish_test/compare/v3.2.0...v4.0.0) (2021-11-22)
 
 **Note:** Version bump only for package @aybuben/accordion
