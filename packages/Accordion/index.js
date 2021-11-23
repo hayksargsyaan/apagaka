@@ -2,7 +2,7 @@ import Button from '@aybuben/button'
 
 function Accordion() {
   return (
-    <Button>click me</Button>
+    <Button>click</Button>
   )
 }
 
