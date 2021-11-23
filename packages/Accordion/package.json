@@ -1,5 +1,5 @@
 {
-  "name": "@aybuben/accordion",
+  "name": "@apagaka/accordion",
   "version": "4.3.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "@aybuben/button": "^4.2.0",
+    "@apagaka/button": "^4.2.0",
     "react-is": "^17.0.1",
     "react-jss": "^10.4.0"
   },

@@ -1,4 +1,4 @@
-import Button from '@aybuben/button'
+import Button from '@apagaka/button'
 
 function Accordion() {
   return (

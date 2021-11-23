@@ -38,7 +38,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [4.0.0](https://github.com/har-sargis/publish_test/compare/v3.2.0...v4.0.0) (2021-11-22)
 
-**Note:** Version bump only for package @aybuben/accordion
+**Note:** Version bump only for package @apagaka/accordion
 
 
 
