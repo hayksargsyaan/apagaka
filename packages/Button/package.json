@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo testing button with version: $npm_package_version"
   },
+  "dependencies": {
+    "react-is": "^17.0.1",
+    "react-jss": "^10.4.0"
+  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"

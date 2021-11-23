@@ -1,6 +1,6 @@
 function Button() {
   return (
-    <button>click me major change</button>
+    <button>click me major changes</button>
   );
 }
 

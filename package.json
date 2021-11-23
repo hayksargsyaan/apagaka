@@ -2,16 +2,16 @@
   "name": "@aybuben/rc",
   "version": "1.0.5",
   "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "publish": "lerna publish from-git  ",
     "test": "lerna run test",
     "wizard": "npx lerna-wizard",
     "diff": "lerna diff",
-    "lerna:commit": "lerna version --conventional-commits --yes",
-    "lerna:precommit": "lerna version --conventional-commits --yes",
+    "lerna:bootstrap": "lerna bootstrap",
     "lerna:publish": "lerna publish --conventional-commits",
-    "lerna:bootstrap": "lerna bootstrap"
+    "lerna:commit": "lerna version --conventional-commits --yes",
+    "create:package": "lerna create $npm_config_package_name",
+    "lerna:exec": "lerna exec -- $npm_config_command"
   },
   "author": "har-sargis",
   "license": "ISC",

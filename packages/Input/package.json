@@ -1,0 +1,26 @@
+{
+  "name": "@aybuben/input",
+  "version": "4.0.0",
+  "description": "> TODO: description",
+  "author": "har-sargis <har.sargis@gmail.com>",
+  "homepage": "https://github.com/har-sargis/publish_test#readme",
+  "license": "ISC",
+  "main": "lib/input.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/har-sargis/publish_test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/har-sargis/publish_test/issues"
+  }
+}
