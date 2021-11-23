@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.3.0](https://github.com/har-sargis/publish_test/compare/v4.2.0...v4.3.0) (2021-11-23)
+
+
+### Features
+
+* **packages/accordion:** major change ([69bae1c](https://github.com/har-sargis/publish_test/commit/69bae1c72448e0fcb6a5c0f0da8ff74acbb3045f))
+
+
+
+
+
 # [4.2.0](https://github.com/har-sargis/publish_test/compare/v4.1.0...v4.2.0) (2021-11-23)
 
 
